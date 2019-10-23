@@ -1,0 +1,151 @@
+/*font-family: 'Inconsolata', monospace;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+/*font-family: 'Playfair Display', serif;*/
+
+body{
+	font-family: 'Playfair Display', serif;
+	color: #626262;
+	margin: 0;
+	padding: 0;
+}
+/*header start*/
+header{
+	margin: 50px;
+}
+.padd{
+	padding: 0!important;
+}
+.menu{
+	margin-right: 50px;
+}
+.menu ul li a{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #626262 !important;
+	text-transform: uppercase;
+	transition: 0.5s;
+	padding: 0px 55px !important;
+
+}
+.menu ul li a:hover{
+	color: black!important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+
+.banner{
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+/*header end*/
+
+/*getaway start*/
+.getaway{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.p_text{
+    font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #b4ad9e;
+	margin-top: 50px;
+}
+.h_text{
+	font-weight: 400;
+	font-size: 30px;
+	color: #626262;
+}
+.b_text{
+	font-weight: 400;
+	font-size: 14px;
+	color: #626262;
+	line-height: 25px;
+	margin-top: 28px;
+}
+/*getaway end*/
+/*blogs start*/
+.blogs{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.blog{
+	margin-top: 65px;
+	margin-bottom: 65px;
+}
+/*blogs end*/
+/*newsletter start*/
+.newsletter{
+	padding-top: 80px;
+	padding-bottom:30px;
+	background-color: #f0f0f0;
+}
+.h1_text{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 30px;
+	color: #333333;
+	letter-spacing: 1.5px;
+	margin-bottom: 70px;
+}
+
+.email{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.emails{
+	background-color: #f0f0f0;
+}
+
+.next{
+	margin-right: 30px;
+margin-top: 3px;
+}
+.next i{
+	font-size:32px;
+}
+/*newsletter end*/
+
+
+/*button*/
+.butt{
+	padding-top: 60px;
+	padding-bottom: 160px;
+}
+
+.but{
+	padding: 10px 30px 10px 30px;
+	transition: 0.7s;
+}
+
+.but:hover{
+	background-color: gray;
+}
+/*button*/
+
+/*footer start*/
+.footer{
+	background-color: #f0f0f0;
+}
+
+.text-line{
+	padding: 40px 0;
+}
+.f_text{
+	font-weight: 700;
+    font-size: 16px;
+    color: #000;
+    padding-right: 12px;
+}
+/*footer end*/
+
+
+
+
